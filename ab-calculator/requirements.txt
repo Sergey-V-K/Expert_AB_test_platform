@@ -1,0 +1,6 @@
+# App dependencies. Pin exact versions after the first working install:
+#   python -m pip freeze > requirements.lock
+numpy
+scipy
+pandas
+streamlit

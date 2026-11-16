@@ -1,0 +1,4 @@
+-r requirements.txt
+pytest
+# Used only in tests, as an independent reference. Not used by the engine.
+statsmodels
